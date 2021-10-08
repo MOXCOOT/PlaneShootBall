@@ -1,2 +1,2 @@
 # PlaneShootBall
-飞机大战
+利用Qt写就的飞机大战三个核心程序
